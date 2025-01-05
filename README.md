@@ -1,5 +1,5 @@
 <div align="center">
-<h1></h1>Hi, I'm Grazielle✨<\h1>
+<h1></h1>Hi, I'm Grazielle✨
 <\div>
 
 <br>
@@ -11,6 +11,7 @@
 ✨ Currently researching quantum computing and its application in medicine
 ✨ Deeply passionate about 
 </li>
+<\div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical)
   
