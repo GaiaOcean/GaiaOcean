@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Grazielle🌸
+
+ - Sophomore Computer Science undergraduate at PUC-SP
+ - Based in São Paulo, Brazil
+ - Currently researching quantum computing and its application in medicine
+ - Deeply passionate about 
+   
 
 <!--
 **GaiaOcean/GaiaOcean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
