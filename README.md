@@ -1,17 +1,14 @@
 <div align="center">
 <h1></h1>Hi, I'm Grazielle✨
 
-
-<br>
-<div align="center">
-  
-<li>
 ✨ Sophomore Computer Science undergraduate at PUC-SP
 ✨ Based in São Paulo, Brazil
 ✨ Currently researching quantum computing and its application in medicine
 ✨ Deeply passionate about 
-</li>
-<\div>
+<br>
+<br>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical)
   
