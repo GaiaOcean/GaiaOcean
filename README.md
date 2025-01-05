@@ -1,9 +1,9 @@
 ## Hi, I'm Grazielle
 
- ✨ Sophomore Computer Science undergraduate at PUC-SP
- ✨ Based in São Paulo, Brazil
- ✨ Currently researching quantum computing and its application in medicine
- ✨ Deeply passionate about 
+✨ Sophomore Computer Science undergraduate at PUC-SP
+✨ Based in São Paulo, Brazil
+✨ Currently researching quantum computing and its application in medicine
+✨ Deeply passionate about 
 
   
 
