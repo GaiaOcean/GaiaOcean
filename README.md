@@ -1,7 +1,7 @@
 <div align="center">
 <h1></h1>Hi, I'm Grazielle✨
 
-✨ Sophomore Computer Science undergraduate at PUC-SP
+<li>✨ Sophomore Computer Science undergraduate at PUC-SP<\li>
 ✨ Based in São Paulo, Brazil
 ✨ Currently researching quantum computing and its application in medicine
 ✨ Deeply passionate about 
