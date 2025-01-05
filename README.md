@@ -5,6 +5,7 @@
 - Currently researching quantum computing and its application in medicine
 - Deeply passionate about 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical)
   
 
 <!--
