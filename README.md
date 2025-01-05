@@ -5,7 +5,7 @@
  ✨ Currently researching quantum computing and its application in medicine
  ✨ Deeply passionate about 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  
 
 <!--
 **GaiaOcean/GaiaOcean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
