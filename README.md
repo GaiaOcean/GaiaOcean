@@ -7,7 +7,7 @@
     
 ✨ Based in São Paulo, Brazil<br>
 ✨ Sophomore Computer Science undergraduate at PUC-SP<br>
-✨ Currently researching quantum computing and its application in medicine<br>
+✨ Currently researching Quantum Computing and its application in medicine<br>
 </div>
 <br><be>
 
@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical)]
 
 <br>
 <div align="center">
