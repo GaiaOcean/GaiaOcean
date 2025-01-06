@@ -18,10 +18,21 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
+
+<div align="center">
+
 
 <div align="center">
 <br>
 <br>
+<h3>Contact Me</h3>
+
+[![gmail](https://img.shields.io/badge/gmail-C35F50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grazibatista2005@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-3F6F8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielle-batista-de-almeida-704844288/)
+
+
+</div>
 
 <a href="https://github.com/GaiaOcean">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical"/> 
