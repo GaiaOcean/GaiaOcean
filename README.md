@@ -7,6 +7,6 @@
 ✨ Currently researching quantum computing and its application in medicine<br>
 </div>
 <br><be>
- <div align="center"> 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical)]
-</div>
+
