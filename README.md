@@ -4,9 +4,9 @@
 <br>
 
 <div align="center">
-✨ Sophomore Computer Science undergraduate at PUC-SP<\n>
-✨ Based in São Paulo, Brazil<\n>
-✨ Currently researching quantum computing and its application in medicine<\n>
+<n>✨ Sophomore Computer Science undergraduate at PUC-SP</n>
+<n>✨ Based in São Paulo, Brazil</n>
+<n>✨ Currently researching quantum computing and its application in medicine/n>
 
 
 </div>
