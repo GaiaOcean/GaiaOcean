@@ -1,5 +1,5 @@
 
-###Hi, I'm Grazielle✨
+### Hi, I'm Grazielle✨
 <br>
 
 ✨ Sophomore Computer Science undergraduate at PUC-SP
