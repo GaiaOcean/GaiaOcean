@@ -9,7 +9,6 @@
 ✨ Sophomore Computer Science undergraduate at PUC-SP<br>
 ✨ Currently researching Quantum Computing and its application in medicine<br>
 </div>
-<br>
 
 <div align="center">
 <br> 
@@ -20,10 +19,10 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
-
-<br>
-<br>
 <div align="center">
+<br>
+<br>
+
 <a href="https://github.com/GaiaOcean">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GaiaOcean&show_icons=true&theme=radical"/> 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaiaOcean&layout=compact&langs_count=7&theme=radical"/>
