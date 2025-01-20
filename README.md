@@ -21,6 +21,12 @@
 </div>
 
 <div align="center">
+<br> 
+<h3>Frameworks and libraries</h3>
+<a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" height="23px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
+<a href="https://qiskit.org/" target="_blank"><img alt="Qiskit" height="23px" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" /></a>
+</div>
+<div align="center">
 
 
 <div align="center">
