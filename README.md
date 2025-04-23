@@ -7,7 +7,6 @@
     
 ✨ Based in São Paulo, Brazil<br>
 ✨ Sophomore Computer Science undergraduate at PUC-SP<br>
-✨ Currently researching Quantum Computing and its application in medicine<br>
 </div>
 
 <div align="center">
