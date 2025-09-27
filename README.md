@@ -9,6 +9,7 @@
 ✨ Sophomore Computer Science undergraduate at PUC-SP<br>
 ✨ Software Engineer intern<br>
 ✨ Aspiring quantum computing and artificial Intelligence researcher<br>
+✨ Passionate about the applications of tech in the med field<br>
 </div>
 
 <div align="center">
