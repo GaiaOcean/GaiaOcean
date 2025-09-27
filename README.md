@@ -8,8 +8,8 @@
 ✨ Based in São Paulo, Brazil<br>
 ✨ Passionate about the applications of tech in the med field<br>
 ✨ Sophomore Computer Science undergraduate at PUC-SP<br>
-✨ Software Engineer intern<br>
 ✨ Aspiring quantum computing and artificial Intelligence researcher<br>
+✨ Software Engineer intern<br>
 </div>
 
 <div align="center">
