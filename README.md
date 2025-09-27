@@ -7,6 +7,8 @@
     
 ✨ Based in São Paulo, Brazil<br>
 ✨ Sophomore Computer Science undergraduate at PUC-SP<br>
+✨ Software Engineer intern<br>
+✨ Aspiring quantum computing and artificial Intelligence researcher<br>
 </div>
 
 <div align="center">
